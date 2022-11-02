@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\ödev2 - loginscreen\bin\Debug\ödev2 - loginscreen.exe.config
+C:\Users\Lenovo\Desktop\ödev2 - loginscreen\bin\Debug\ödev2 - loginscreen.exe
+C:\Users\Lenovo\Desktop\ödev2 - loginscreen\bin\Debug\ödev2 - loginscreen.pdb
+C:\Users\Lenovo\Desktop\ödev2 - loginscreen\obj\Debug\ödev2 - loginscreen.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\ödev2 - loginscreen\obj\Debug\ödev2 - loginscreen.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\ödev2 - loginscreen\obj\Debug\ödev2___loginscreen.Form1.resources
+C:\Users\Lenovo\Desktop\ödev2 - loginscreen\obj\Debug\ödev2___loginscreen.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\ödev2 - loginscreen\obj\Debug\ödev2 - loginscreen.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\ödev2 - loginscreen\obj\Debug\ödev2 - loginscreen.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ödev2 - loginscreen\obj\Debug\ödev2 - loginscreen.exe
+C:\Users\Lenovo\Desktop\ödev2 - loginscreen\obj\Debug\ödev2 - loginscreen.pdb
